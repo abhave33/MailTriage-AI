@@ -32,7 +32,7 @@ The project uses sample email data (`Alex_emails_march_04.csv`), which includes 
 
 - Train a machine learning model for email classification
 - Integrate sentiment analysis
-- Deploy as a Streamlit or web-based AI inbox assistant
+- Deploy as a Streamlit or web-based AI inbox assistant (in the works...)
 
 ---
 
